@@ -1,6 +1,8 @@
 # genki-3000
 
-Forum thread:
+Interim testnet.
+
+Forum thread: https://forum.cosmos.network/t/genki-3000-also-gos-is-delayed-by-48-hours
 
 Genesis time will be at 2018-12-11 13:00 UTC. 
 
